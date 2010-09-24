@@ -50,3 +50,4 @@ No, not without modifying the plugin.
 
 = 0.9.1 =
 * Fixed bug with URLs with ampersands in them
+* Added `'with_front' => false` to the post type registration

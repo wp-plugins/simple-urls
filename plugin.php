@@ -49,7 +49,7 @@ class SimpleURLs {
 				'query_var' => true,
 				'menu_position' => 20,
 				'supports' => array( 'title' ),
-				'rewrite' => array( 'slug' => 'go' )
+				'rewrite' => array( 'slug' => 'go', 'with_front' => false )
 			)
 		);
 		
